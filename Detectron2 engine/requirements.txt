@@ -1,0 +1,5 @@
+# C:\Users\Gowtham\Documents\GitHub\HumanPoseEstimation\Detectron2 engine\Mask_RCNN_HumanPoseEstimation.py: 7
+numpy == 1.18.2
+
+# C:\Users\Gowtham\Documents\GitHub\HumanPoseEstimation\Detectron2 engine\Mask_RCNN_HumanPoseEstimation.py: 8
+opencv_python == 4.2.0.32
